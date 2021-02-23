@@ -7,3 +7,5 @@
 ### Retail Analysis Dashboard
 
 ### Supplier Quality Analysis
+
+### Sales Insights
