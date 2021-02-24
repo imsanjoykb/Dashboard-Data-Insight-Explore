@@ -9,3 +9,5 @@
 ### Supplier Quality Analysis
 
 ### Sales Insights
+
+### Business Insights
